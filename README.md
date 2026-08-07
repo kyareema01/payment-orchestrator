@@ -23,5 +23,5 @@ This system intelligently routes transactions across multiple third-party paymen
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/payment-orchestrator.git](https://github.com/kyareema01/payment-orchestrator.git)
+   git clone (https://github.com/kyareema01/payment-orchestrator.git)
    cd payment-orchestrator
